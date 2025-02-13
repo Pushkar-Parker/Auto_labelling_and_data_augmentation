@@ -22,6 +22,4 @@ The repository also provides a **data augmentation pipeline** that enhances an e
   - **Gaussian noise and blur for robustness**  
 - Outputs augmented images along with their **transformed annotations**  
 
-This repository is designed to streamline dataset preparation for YOLO-based object detection models, making it easier to scale labeling efforts and improve model performance.  
-
-Would you like me to add instructions for installation, usage, and examples?
+This repository is designed to streamline dataset preparation for YOLO-based object detection models, making it easier to scale labeling efforts and improve model performance. 
