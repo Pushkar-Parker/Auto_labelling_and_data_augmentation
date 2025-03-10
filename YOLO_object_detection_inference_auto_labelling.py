@@ -8,6 +8,7 @@ import torch
 from pathlib import Path
 import cv2 as cv
 
+# Setting random seed
 random.seed(101)
 
 # Defining colors for classes later used for object detection trackers
